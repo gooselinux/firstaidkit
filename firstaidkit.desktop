@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=FirstAidKit
+GenericName=FirstAidKit
+Type=Application
+Exec=firstaidkit -g gtk
+Comment=System rescue and recovery tool
+Categories=System;
+Terminal=false
+Icon=firstaidkit
